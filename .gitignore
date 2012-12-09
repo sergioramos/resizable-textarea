@@ -1,2 +1,6 @@
 components
 /build/build.css
+component.json
+readme.md
+rta.js
+src
