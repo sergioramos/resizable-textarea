@@ -1,6 +1,6 @@
 # resizable-textarea
 
-make a textarea auto resizable
+make a textarea auto resizable. [demo](http://ramitos.github.com/resizable-textarea/)
 
 ## install
 
