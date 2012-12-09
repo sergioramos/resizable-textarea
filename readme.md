@@ -2,13 +2,13 @@
 
 make a textarea auto resizable
 
-## Installation
+## install
 
 ```bash
 $ component install ramitos/resizable-textarea
 ```
 
-## API
+## api
 
 ```js
 var rta = require('resizable-textarea');
@@ -16,7 +16,10 @@ var rta = require('resizable-textarea');
 rta(document.getElementById('some-textarea-id'));
 ```
 
+## issues
+
+ * the textarea only grows, and doesn't shrink when the text is reduced.
 
 ## License
 
-  MIT
+MIT
