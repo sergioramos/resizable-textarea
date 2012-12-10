@@ -1,11 +1,11 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "name": "resizable-textarea",
   "repo": "ramitos/resizable-textarea",
   "description": "make a textarea auto resizable",
   "twitter": "@ramitos",
   "license": "MIT",
-  "main": "rta.js",
+  "main": "src/rta.js",
   "scripts": [
     "src/rta.js"
   ],
