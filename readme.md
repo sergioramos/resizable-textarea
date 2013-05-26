@@ -13,12 +13,8 @@ $ component install ramitos/resizable-textarea
 ```js
 var rta = require('resizable-textarea');
 
-rta(document.getElementById('some-textarea-id'));
+rta(document.getElementById('some-textarea-id'), { min: 3, max: 10 });
 ```
-
-## issues
-
- * the textarea only grows, and doesn't shrink when the text is reduced.
 
 ## License
 
