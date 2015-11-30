@@ -1,3 +1,5 @@
+![deprecated](https://img.shields.io/badge/status-deprecated-red.svg?style=plastic)
+
 # resizable-textarea
 
 make a textarea auto resizable. [demo](http://ramitos.github.com/resizable-textarea/)
